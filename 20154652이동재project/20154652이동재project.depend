@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1543914482 source:c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\keeper.cpp
+	<iostream>
+	"keeper.h"
+	"Player.h"
+
+1543912769 source:c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\main.cpp
+	<iostream>
+	"kicker.h"
+	"keeper.h"
+	"Player.h"
+	"Probability.h"
+	"Game.h"
+
+1543915151 c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\kicker.h
+	"Player.h"
+	"keeper.h"
+
+1543914482 c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\keeper.h
+	"Player.h"
+
+1543138172 c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\ui.h
+
+1543914482 source:c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\player.cpp
+	<iostream>
+	"Player.h"
+
+1543914482 c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\player.h
+
+1543915256 source:c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\kicker.cpp
+	<iostream>
+	"kicker.h"
+	"Player.h"
+
+1543915151 source:c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\probability.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Probability.h"
+
+1543327637 c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\probability.h
+
+1543913058 c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\game.h
+
+1543915561 source:c:\users\leedongjae\desktop\2-2\객체지향프로그래밍\20154652이동재project\game.cpp
+	<iostream>
+	<windows.h>
+	"Game.h"
+	"Probability.h"
+	"kicker.h"
+	"keeper.h"
+	"Player.h"
+
